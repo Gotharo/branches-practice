@@ -7,3 +7,6 @@ body {
 .back {
     background-color: rgb(65, 65, 65);
 }
+.solid {
+    background-color: darkgreen;
+}
